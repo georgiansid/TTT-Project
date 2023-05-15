@@ -2,7 +2,7 @@
 Description: This project is a web application that fetches a text file from a URL, counts the occurrence of each word in the file, and displays a bar chart of the top 21 words with the highest occurrence. It also provides an option to download the data as a CSV file.
 
 ## Demo
-A live demo of the project can be found [here](https://64626970cd12770cfa15a6bb--admirable-brioche-d24766.netlify.app/).
+A live demo of the project can be found [here](https://64626c2a9cd150104672e43e--admirable-brioche-d24766.netlify.app/).
 
 ## Components
 The project consists of the following components:
