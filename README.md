@@ -1,7 +1,10 @@
 # TERRIBLY TINY TALES Project
 Description: This project is a web application that fetches a text file from a URL, counts the occurrence of each word in the file, and displays a bar chart of the top 21 words with the highest occurrence. It also provides an option to download the data as a CSV file.
 
-# Components
+## Demo
+A live demo of the project can be found [here](https://64626970cd12770cfa15a6bb--admirable-brioche-d24766.netlify.app/).
+
+## Components
 The project consists of the following components:
 
 1. app.css
@@ -19,7 +22,7 @@ This component renders a button with a link to the Output page. It uses the useL
 5. Output Component
 This component fetches a text file from a URL, counts the occurrence of each word in the file, and renders a bar chart using the recharts library. It also provides a download link for the data in CSV format using the react-csv library.
 
-# Libraries and Plugins Used
+## Libraries and Plugins Used
 The project utilizes the following libraries and plugins:
 
 React - A JavaScript library for building user interfaces.
@@ -30,7 +33,7 @@ recharts - A charting library for React that provides customizable and responsiv
 
 react-csv - A library for generating and downloading CSV files in React applications.
 
-# Getting Started
+## Getting Started
 To run the project locally, follow these steps:
 
 Clone the repository: git clone https://github.com/georgiansid/TTT-project/
@@ -41,5 +44,5 @@ Start the development server: npm start
   
 Open your browser and navigate to http://localhost:3000
   
-# Credits
+## Credits
 The project was developed by Siddhant Lamba.
