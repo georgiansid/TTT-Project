@@ -1,5 +1,5 @@
 # TERRIBLY TINY TALES Project
-Description: This project is a web application that fetches a text file from a URL, counts the occurrence of each word in the file, and displays a bar chart of the top 21 words with the highest occurrence. It also provides an option to download the data as a CSV file.
+Description: This project is a web application that fetches a text file from a URL, counts the occurrence of each word in the file, and displays a bar chart of the top 21* words with the highest occurrence. It also provides an option to download the data as a CSV file.
 
 ## Demo
 A live demo of the project can be found [here](https://64626c2a9cd150104672e43e--admirable-brioche-d24766.netlify.app/).
